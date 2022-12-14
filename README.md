@@ -1,8 +1,8 @@
 ### Hi I'm Rui 👋
 
-- 🔭 I’m currently working as Fullstack Developer with techs Nodejs(Nestjs, Express), Typescript, Reactjs, TailwindCSS, 
-GraphQL, Restfull API, Flutter, Unit Test, E2E, MySQL, PostgreSQL, SQLite, MongoDB, TypeORM, Prisma.
-- 🌱 I’m currently learning Nextjs, Django
+- 🔭 I’m currently working as Fullstack Developer with techs Nodejs(Nestjs, Express), Typescript, Reactjs/Nextjs, TailwindCSS, 
+GraphQL, Restfull API, Flutter, Unit Test, E2E, MySQL, PostgreSQL, SQLite, MongoDB, TypeORM, Prisma, Clean Architecture, S.O.L.I.D,TDD,DDD.
+- 🌱 I’m currently learning Go(Golang) 
 - 📫 How to reach me: ruic.dll@gmail.com
 - 😄 Pronouns: Me...
 - ⚡ Fun fact: I already worked with Laravel, bootstrap, Java(Mobile and web with Spring Boot), Kotlin a lot, 
