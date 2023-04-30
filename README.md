@@ -4,6 +4,7 @@
 GraphQL, Restfull API, Flutter, Unit Test, E2E, MySQL, PostgreSQL, SQLite, MongoDB, TypeORM, Prisma, Clean Architecture, S.O.L.I.D, TDD, DDD.
 - 🌱 I’m currently learning Go(Golang) 
 - 📫 How to reach me: ruic.dll@gmail.com
+- LinkedIn https://www.linkedin.com/in/rui-paulo-calei-867309175/
 - 😄 Pronouns: Me...
 - ⚡ Fun fact: I already worked with Laravel, bootstrap, Java(Mobile and web with Spring Boot), Kotlin a lot, 
 I also won Hackacton and Mini hackaton,...
